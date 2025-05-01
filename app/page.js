@@ -60,8 +60,6 @@ export default function QuizApp() {
             options={quizData[current].options}
             onAnswer={handleAnswer}
           />
-          
-          
         </div>
       )}
     </div>
